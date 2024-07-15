@@ -54,7 +54,7 @@ function App() {
       <iframe
         width="560"
         height="315"
-        src="https://www.youtube.com/embed/tJsBHxogUcc?si=0CzyuVDwoOHxHUUG"
+        src="https://www.youtube.com/embed/9eGwOuyKu1U?si=lAW5iLCT7FqgIkA_"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -63,7 +63,10 @@ function App() {
         autoPlay muted
       ></iframe>
       <h2>Audio from internet</h2>
-      <audio src="https://services.brninfotech.com/tws/media2/songs/Gang Leader/04 - Gangu Leader.mp3" controls></audio>
+      <audio
+        src="https://services.brninfotech.com/tws/media2/songs/Gang Leader/04 - Gangu Leader.mp3"
+        controls
+      ></audio>
       <hr></hr>
       <h1>Wednesday image using local src</h1>
       <p>
